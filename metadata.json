@@ -1,0 +1,6 @@
+{
+  "name": "Paper Designer",
+  "description": "Canva-like document and letterhead design editor for creating printable A4 and A5 documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
